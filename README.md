@@ -4,7 +4,7 @@ Here's a quick summary about me:
 
 - 👋 Pronouns: She/Her
 - 👀 Education: I am currently studying at OAU, department of Computer Science and Engineering.
-- 🌱 I’m currently learning Javascript, React and more on Open Source.
+- 🌱 I’m currently learning React.
 - 💞️ I'm looking for help with open-source projects, internships and collaborations that can help improve my skill. 
 - 📫 Job Interests: Software Engineer, Frontend Developer (Intern).
 
